@@ -1,4 +1,4 @@
-#emty list 
+# empty list 
 tasks = []
 
 while True:
